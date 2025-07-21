@@ -19,7 +19,7 @@ app.get('/about', (req, res) => {
     res.send(' padi parama padi parama nu soneneneyyyy ketiyaaaa......!');
 });
 app.get('/contact', (req, res) => {
-    res.send(' This subcriber cannot reachable at ths moment............!');
+    res.send(' This subcriber cannot reachable at the moment............!');
 });
 app.get('/profile', (req, res) => {
     res.send(' lusu rendu serthalaey summa pesi kondalaey friendship varum enpen nanaeyy .....!');
